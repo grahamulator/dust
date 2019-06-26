@@ -1,0 +1,6 @@
+- name: Hot Cheese
+  path: /hotcheese
+- name: Korean Khaos
+  path: /koreankhaos
+- name: Ramen
+  path: /ramen
